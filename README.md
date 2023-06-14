@@ -5,7 +5,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Video-LLaMA-colab/blob/main/Video_LLaMA_colab.ipynb) | ECON_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Video-LLaMA-colab/blob/main/Video_LLaMA_colab.ipynb) | Video_LLaMA_colab
 
 ## Main Repo
 https://github.com/DAMO-NLP-SG/Video-LLaMA <br />
