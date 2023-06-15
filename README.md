@@ -12,3 +12,6 @@ https://github.com/DAMO-NLP-SG/Video-LLaMA <br />
 
 ## Paper
 https://arxiv.org/abs/2306.02858
+
+## Output
+![Screenshot 2023-06-15 073828](https://github.com/camenduru/Video-LLaMA-colab/assets/54370274/93630281-9fbf-4f90-ab8b-352aa8ae264c)
