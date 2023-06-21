@@ -9,6 +9,7 @@
 
 ## Main Repo
 https://github.com/DAMO-NLP-SG/Video-LLaMA <br />
+https://modelscope.cn/studios/damo/video-llama/summary <br />
 https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA/tree/main
 
 ## Model
