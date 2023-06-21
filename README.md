@@ -9,6 +9,7 @@
 
 ## Main Repo
 https://github.com/DAMO-NLP-SG/Video-LLaMA <br />
+https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA/tree/main
 
 ## Paper
 https://arxiv.org/abs/2306.02858
